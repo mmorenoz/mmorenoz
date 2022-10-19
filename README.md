@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Mateo! 👋
 
 
 
@@ -16,6 +16,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Geological engineer working with natural hazards
+- I'm currently working as a researcher at the Climate and Risk Disaster Risk group at Eurac Research
+- In my PhD, I am learning about landslide hazard at regional scales using data-driven models
+- I mostly code in R, and often use:
+
+
+
+- During my free time I'm into hiking, cycling and photography
+- Find me:
 
 <p align="center">
   <a href="https://twitter.com/mmorenoz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
