@@ -20,6 +20,6 @@ Geologist engineer engineer working on natural hazards :mount_fuji::volcano::cyc
   <a href="https://twitter.com/mmorenoz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>  
   <a href="https://www.linkedin.com/in/mateo3195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>  
   <a href="https://www.researchgate.net/profile/Mateo-Moreno-5"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="Researchgate"></a>    
-  <a href="https://https://scholar.google.com/citations?hl=en&user=58TdPa0AAAAJ"><img src="https://img.shields.io/badge/Googlescholar-010A0F?style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="GoogleScholar"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=58TdPa0AAAAJ"><img src="https://img.shields.io/badge/Googlescholar-010A0F?style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="GoogleScholar"></a>
   
 
