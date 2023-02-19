@@ -7,10 +7,12 @@ Geologist engineer engineer working on natural hazards :mount_fuji::volcano::cyc
 
 <p align="center">
 <a https://github.com/rspatial/terra><img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="50px"/></a>
+ <a href="https://github.com/r-tmap/tmap"><img src="https://user-images.githubusercontent.com/3457131/78889069-479c5480-7a63-11ea-9d76-e8a0acc55c3f.png" width="50px"/></a>
 <a href="https://github.com/tidyverse/tidyverse"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" width="50px"/></a>
 <a href="https://github.com/r-spatial/sf"><img src="https://user-images.githubusercontent.com/520851/34887433-ce1d130e-f7c6-11e7-83fc-d60ad4fae6bd.gif" width="50px"/></a>
 <a href=https://github.com/r-spatial/mapview><img src="https://github.com/tim-salabim/mvl/blob/cstriestohelp/imagery/animated/box_anim.gif?raw=true" width="60px"/></a>
 <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
+<a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
 
 
 - During my free time I'm into hiking :mountain:, cycling :biking_man: and photography :camera:
