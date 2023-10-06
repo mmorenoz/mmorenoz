@@ -1,6 +1,6 @@
-### Hi there, I am Mateo! 👋:colombia:
+### Hi there, I am Mateo! 👋🇨🇴
 
-Geologist engineer engineer working on natural hazards :mount_fuji::volcano::cyclone::ocean:
+Engineering geologist working on natural hazards :mount_fuji::volcano::cyclone::ocean:
 - :earth_americas: I'm currently working as a researcher at the [Climate and Risk Disaster Risk group](https://www.eurac.edu/en/institutes-centers/institute-for-earth-observation/research-group/climate-and-disaster-risk) at [Eurac Research.](https://www.eurac.edu/en)
 - :satellite: :sunrise_over_mountains: In my PhD at [University of Twente](https://www.itc.nl/), I am learning about data-driven methods to model geomorphological processes, specifically landslides in space and time.
 - :green_book: I mostly code in R, and often use:
